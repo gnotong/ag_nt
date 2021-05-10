@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.africageoloc.ag_nt">
+    package="com.africageoloc.agnt">
    <application
         android:label="ag_nt"
         android:icon="@mipmap/ic_launcher">
