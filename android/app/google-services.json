@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "265130164161",
+    "project_id": "agnt-f10a7",
+    "storage_bucket": "agnt-f10a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265130164161:android:98567d841758a601cbf940",
+        "android_client_info": {
+          "package_name": "com.africageoloc.agnt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265130164161-0gdbadb0sk7i5du7vpeho3a6djr35sl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhfsAoiSmXyyJVWIg8vGmbJAQcroCB7mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265130164161-0gdbadb0sk7i5du7vpeho3a6djr35sl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
